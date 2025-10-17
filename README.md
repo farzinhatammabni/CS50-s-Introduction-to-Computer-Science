@@ -13,7 +13,6 @@ This repository contains my notes, problem set solutions, and final project rela
 - SQL
 - HTML, CSS, and JavaScript
 - Flask
-Link to the CS50 Introduction to Computer Science course
-(https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+Link to the CS50 Introduction to Computer Science course [here](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 ## Certificate
-You can view my official certificate [https://your-certificate-link](https://certificates.cs50.io/0d3a0820-0b40-4950-b0c6-2a87f8136a08.png?size=A4]
+You can view my official certificate [here](https://certificates.cs50.io/0d3a0820-0b40-4950-b0c6-2a87f8136a08.png?size=A4)
